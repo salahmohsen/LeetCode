@@ -1,6 +1,6 @@
-# LeetCode
+![LeetCode](https://leetcode.com/_next/static/images/logo-large-748c77d15b8d04e659615ebb5baa7bb6.png "LeetCode")
 
-This repository contains all of my solutions to Leetcode problems that I have solved.
+###### This repository contains all of my solutions to Leetcode problems that I have solved.
 
 |  #   | Title                                                                                                            |                                                         Solution                                                          | Difficulty |
 | :--: | :--------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :--------: |
